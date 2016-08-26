@@ -850,7 +850,8 @@ nav.navbar-collapse{
 .navbar-default .navbar-nav>.active>a:hover, 
 .navbar-default .navbar-nav>.active>a:focus{
 	background-color: #FF0000;
-	color: #0d0d0d;
+	color: #B4C800;
+	font-weight: 800;
 }
 .navbar-default .navbar-nav>li>a {
 	color: #ffffff;
