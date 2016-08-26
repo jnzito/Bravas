@@ -1,0 +1,42 @@
+<div id="tweet" class="parallax-style">
+					<div class="tweet-section overlay-normal section-padding"> 
+						<div class="twitter-icon-container">
+							<div class="hex tweeter-icon">
+								<span class="hex-icon"> <i class="fa fa-twitter"></i> </span>
+							</div><!-- /.tweeter-icon -->
+						</div><!-- /.twitter-icon-container --> 
+						<div id="tweet-slider" class="carousel slide tweet-slider" data-ride="carousel"> 
+							<div class="carousel-inner">
+								<div class="item active">
+									<div class="tweet-details"> 
+										<p class="tweet-description">
+											<a href="https://twitter.com/jwthemeltd">@jwthemeltd</a> 
+											#TopClass - Multipurpose Business &amp; Corporate #WordPress Theme has been updated, check out at  http://t.co/Oc2cfugiqE                                    
+										</p><!-- /.tweet-description -->
+									</div><!-- /.tweet-details -->
+								</div><!-- /.item -->
+
+								<div class="item">
+									<div class="tweet-details">
+										<p class="tweet-description">
+											<a href="https://twitter.com/jwthemeltd">@jwthemeltd</a> 
+											Our #TopClass #HTML5 template is now in #wordPress version  Check out TopClass WordPress Multipurpose Theme  http://t.co/fEwxJjF5hf                                    
+										</p><!-- /.tweet-description -->
+									</div><!-- /.tweet-details -->
+								</div><!-- /.item --> 
+
+								<div class="item">
+									<div class="tweet-details">
+										<p class="tweet-description">
+											<a href="https://twitter.com/jwthemeltd">@jwthemeltd</a> 
+											Our #TopClass #HTML5 template is now in #wordPress version  Check out TopClass WordPress Multipurpose Theme  http://t.co/fEwxJjF5hf                                    
+										</p><!-- /.tweet-description -->
+									</div><!-- /.tweet-details -->
+								</div><!-- /.item -->  
+
+							</div><!-- /.carousel-inner -->
+							<a class="slide-nav left" href="#tweet-slider" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
+							<a class="slide-nav right" href="#tweet-slider" data-slide="next"><i class="fa fa-chevron-right"></i></a>
+						</div><!-- /#tweet-slider -->  						
+					</div><!-- /.tweet-section -->
+				</div><!-- /#tweet -->

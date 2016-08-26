@@ -1,0 +1,84 @@
+<section id="testimonial" class="parallax-style">
+					<div class="testimonial overlay-normal section-padding">
+						<div id="testimonial-carousel" class="carousel slide" data-ride="carousel">
+							<ol class="carousel-indicators">
+								<li data-target="#testimonial-carousel" data-slide-to="0" class="active"></li>
+								<li data-target="#testimonial-carousel" data-slide-to="1" class=""></li>
+								<li data-target="#testimonial-carousel" data-slide-to="2" class=""></li>
+							</ol><!-- /.carousel-indicators -->
+							<div class="carousel-inner">
+								<div class="item active">
+									<div class="testimonial-figure">
+										<div class="author-avatar">
+											<img class="img-circle" src="images/testimonial-carousel/01.png" alt="carousel image">
+										</div><!-- /.author-avatar --> 
+										<div class="authors-review">
+											<p class="author-says">
+												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, quam consectetur deserunt delectus, maxime natus aperiam libero molestiae beatae
+											</p><!-- /.author-says -->
+											<div class="given-stars">
+												<span><i class="fa fa-star"></i></span>
+												<span><i class="fa fa-star"></i></span>
+												<span><i class="fa fa-star"></i></span>
+												<span><i class="fa fa-star"></i></span>
+												<span><i class="fa fa-star-half-o"></i></span>
+											</div><!-- /.given-stars --> 
+											<div class="author-and-ulr">
+												<h4 class="author-name"> Max Sherman  </h4> 
+												<a href="#" class="author-website">www.companyname.com</a> 
+											</div> <!-- /.author-and-ulr --> 
+										</div><!-- /.authors-review --> 
+									</div><!-- /.testimonial-figure -->
+								</div><!-- /.item --> 
+
+								<div class="item">
+									<div class="testimonial-figure">
+										<div class="author-avatar">
+											<img class="img-circle" src="images/testimonial-carousel/01.png" alt="carousel image">
+										</div><!-- /.author-avatar --> 
+										<div class="authors-review">
+											<p class="author-says">
+												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, quam consectetur deserunt delectus, maxime natus aperiam libero molestiae beatae
+											</p><!-- /.author-says -->
+											<div class="given-stars">
+												<span><i class="fa fa-star"></i></span>
+												<span><i class="fa fa-star"></i></span>
+												<span><i class="fa fa-star"></i></span>
+												<span><i class="fa fa-star"></i></span>
+												<span><i class="fa fa-star-o"></i></span>
+											</div><!-- /.given-stars --> 
+											<div class="author-and-ulr">
+												<h4 class="author-name"> Max Sherman  </h4> 
+												<a href="#" class="author-website">www.companyname.com</a> 
+											</div> <!-- /.author-and-ulr --> 
+										</div><!-- /.authors-review --> 
+									</div><!-- /.testimonial-figure -->
+								</div><!-- /.item -->
+
+								<div class="item">
+									<div class="testimonial-figure">
+										<div class="author-avatar">
+											<img class="img-circle" src="images/testimonial-carousel/01.png" alt="carousel image">
+										</div><!-- /.author-avatar --> 
+										<div class="authors-review">
+											<p class="author-says">
+												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, quam consectetur deserunt delectus, maxime natus aperiam libero molestiae beatae
+											</p><!-- /.author-says -->
+											<div class="given-stars">
+												<span><i class="fa fa-star"></i></span>
+												<span><i class="fa fa-star"></i></span>
+												<span><i class="fa fa-star"></i></span>
+												<span><i class="fa fa-star"></i></span>
+												<span><i class="fa fa-star-half-o"></i></span>
+											</div><!-- /.given-stars --> 
+											<div class="author-and-ulr">
+												<h4 class="author-name"> Max Sherman  </h4> 
+												<a href="#" class="author-website">www.companyname.com</a> 
+											</div> <!-- /.author-and-ulr --> 
+										</div><!-- /.authors-review --> 
+									</div><!-- /.testimonial-figure -->
+								</div><!-- /.item -->
+							</div><!-- /.carousel-inner -->
+						</div><!-- /#testimonial-carousel --> 
+					</div><!-- /.testimonial -->
+				</section><!-- /#testimonial -->
