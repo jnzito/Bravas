@@ -1,0 +1,52 @@
+<section id="our-crew">
+					<div class="our-crew section-padding">
+						<div class="section-title-container">
+							<h2 class="section-title">Our Crew </h2>
+						</div><!-- /.section-title-container --> 
+						<div class="crew-container">
+							<div class="row">
+								<div id="crew-slider" class="owl-carousel owl-theme">
+									<div class="item col-xs-12">
+										<div class="crew-member-box wow fadeIn animated" data-wow-delay="0.1s">
+											<h4 class="crew-name">Georgia</h4>
+											<h5 class="crew-designation">Ass Chef</h5>
+											<p class="about-crew">
+												Food Safety is my duty. I have done my course on Food Safety and know how to look after food and keep it fresh.
+											</p><!--  /.about-crew -->
+											<div class="crew-photo">
+												<img src="images/crew/01.jpg" alt="Crew Photo">
+											</div><!-- /.crew-photo -->
+										</div><!-- /.crew-member-box -->
+									</div><!-- /.item -->
+
+									<div class="item col-xs-12">
+										<div class="crew-member-box wow fadeIn animated" data-wow-delay="0.2s">
+											<h4 class="crew-name">Harrison</h4>
+											<h5 class="crew-designation">Ass Chef</h5>
+											<p class="about-crew">
+												Chicken, Vegetables and Eggs are most important for body. I am Chicken &amp; Poultry, Vegetables and Egg cooking expert. 
+											</p><!--  /.about-crew -->
+											<div class="crew-photo">
+												<img src="images/crew/02.jpg" alt="Crew Photo">
+											</div><!-- /.crew-photo -->
+										</div><!-- /.crew-member-box -->
+									</div><!-- /.item -->
+
+
+									<div class="item col-xs-12">
+										<div class="crew-member-box wow fadeIn animated" data-wow-delay="0.3s">
+											<h4 class="crew-name">Evelyn</h4>
+											<h5 class="crew-designation">Ass Chef</h5>
+											<p class="about-crew">
+												I have done Mastering on Fry Pan and at the same time I know how to make cook delicious pasta sauce.
+											</p><!--  /.about-crew -->
+											<div class="crew-photo">
+												<img src="images/crew/03.jpg" alt="Crew Photo">
+											</div><!-- /.crew-photo -->
+										</div><!-- /.crew-member-box -->
+									</div><!-- /.item --> 
+								</div><!-- /#crew-slider -->
+							</div><!-- /.row -->
+						</div><!-- /.crew-container --> 
+					</div><!-- /.our-crew --> 
+				</section><!-- /#our-crew -->

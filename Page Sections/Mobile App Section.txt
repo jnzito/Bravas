@@ -1,0 +1,22 @@
+<section id="mobile-app" class="parallax-style">
+					<div class="mobile-app overlay-normal section-padding">
+						<div class="row">
+							<div class="col-sm-5">
+								<div class="mobile-container wow fadeIn animated" data-wow-delay="0.1s">
+									<img class="mobile-img" src="images/mobile-app/mobile.png" alt="Mobile">
+								</div><!-- /.mobile-containe -->
+							</div><!-- /.col-sm-5 -->
+
+							<div class="col-sm-7">
+								<h2 class="apps-title">
+									Happy to Announce
+									<span>Mobile App</span>
+									is Available in every os platform. 
+								</h2><!-- /.apps-title -->
+								<div class="btn-container">
+									<a href="#" class="btn btn-sm btn-light-green">Download Now</a>
+								</div><!-- /.btn-container -->
+							</div><!-- /.col-sm-7 --> 
+						</div><!-- /.row --> 
+					</div><!-- /.mobile-app -->
+				</section><!-- /#mobile-app -->
